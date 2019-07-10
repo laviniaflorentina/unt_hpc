@@ -25,6 +25,6 @@ In all these tutorials it is assumed you have some basic knowledge of how to use
 
 ### [Python Toolkit](https://github.com/gmihaila/unt_hpc/tree/master/python)
 
-### [Jupyter Notebooks on Talon](https://github.com/gmihaila/unt_hpc/tree/master/jupyter_notebook)
+### [Jupyter Notebooks on Talon - MacOS/Linux Only](https://github.com/gmihaila/unt_hpc/tree/master/jupyter_notebook)
 
 ### [R Toolkit](https://github.com/gmihaila/unt_hpc/tree/master/r)
